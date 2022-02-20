@@ -1,0 +1,12 @@
+
+.scroll
+{
+    max-height: 100%;
+    overflow-y: scroll;
+    padding-bottom: 50px;
+}
+
+.pagination {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
